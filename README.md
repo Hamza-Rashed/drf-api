@@ -1,4 +1,4 @@
-Name of Peoject: Django REST Framework & Docker
+# Name of Peoject: Django REST Framework & Docker
 
 Estimate of time needed to complete: 2 h
 
