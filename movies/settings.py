@@ -25,7 +25,7 @@ SECRET_KEY = 'z7t5k9ad=g$1l*bc!onz1%!g!tg532v^9-c!#ydthxp_g(n3k$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'movieApp',
+    'movieApp.apps.MovieappConfig',
 ]
 
 MIDDLEWARE = [
