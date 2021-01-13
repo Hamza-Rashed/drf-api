@@ -1,21 +1,12 @@
 
-# Overview
+# Name of Peoject: Django REST Framework & Docker
 
-Use Django REST Framework to create an API, then “containerize” it with Docker.
+## Estimate of time needed to complete: 2 h
 
-## Feature Tasks and Requirements
+### Start time: 4 : 00 pm
+### Finish time: 6 : 00 pm
+### Actual time needed to complete: *** 2 h ***
 
-Rebuild a custom version of Blog API demo project from scratch.
+* Use Django REST Framework to create an API, then “containerize” it with Docker.
 
-Replace Blog and Post with your own application and model.
-Your model must have at least as many fields as demo’s model.
-
-Your model must have one field that is a foreign key to user.
-
->NOTE: You are not required to build any templates for this lab.
-
-**Features - Docker**
-
-NOTE Refer to the class demo for built out Dockerfile and docker-compose.yml examples.
-
-Update Dockerfile and docker-compose.yml if needed.
+[PR](https://github.com/Hamza-Rashed/drf-api/pull/2)
